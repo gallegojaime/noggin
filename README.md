@@ -17,11 +17,11 @@ APIs and open-sourcing can make it happen; imagine Khan Academy appending new sk
 Schools and jobs will not be impressed by a bunch of self-reported data. Therefore, it is a goal of ours to add respected certifications to the Noggin structures.
 
 ## Use cases
-*Self-reporting of one or more skill tracks, for reference and analysis.
+* Self-reporting of one or more skill tracks, for reference and analysis.
 
-*Navigation of skill tracks, Noggin- or user-published, to learn anything and provide immense situational awareness.
+* Navigation of skill tracks, Noggin- or user-published, to learn anything and provide immense situational awareness.
 
-*Embedding of Noggin data into jobs pages, so that employers can gauge fitness, hire faster, and develop strategies (hire a team with diverse sets of skills, or concentrated...).
+* Embedding of Noggin data into jobs pages, so that employers can gauge fitness, hire faster, and develop strategies (hire a team with diverse sets of skills, or concentrated...).
 
 ## License
 Noggin is licensed under the BSD 3-clause license. Read it fully in the LICENSE file.
