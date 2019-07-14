@@ -24,4 +24,4 @@ Schools and jobs will not be impressed by a bunch of self-reported data. Therefo
 * Embedding of Noggin data into jobs pages, so that employers can gauge fitness, hire faster, and develop strategies (hire a team with diverse sets of skills, or concentrated...).
 
 ## License
-Noggin is licensed under the BSD 3-clause license. Read it fully in the LICENSE file.
+Noggin is licensed under the GNU General Public License. For more information, see the LICENSE file.
